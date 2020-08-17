@@ -1,8 +1,5 @@
 # config-windows-chocolatey
-repositorio com alguns comandos de instalacao de do chocolatey no windows
-
-
-
+repositorio com alguns comandos de instalação do chocolatey no windows
 
 # -- COMANDO PARA INSTALAR  CHOCOLATEY ---
 
