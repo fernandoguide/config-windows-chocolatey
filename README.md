@@ -1,3 +1,9 @@
+# Desativando Hibernação do Windows
+
+PowerShell como Administrador e rodar o comando: 
+
+powercfg.exe /hibernate off 
+
 # config-windows-chocolatey
 repositorio com alguns comandos de instalação do chocolatey no windows
 
