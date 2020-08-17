@@ -34,3 +34,11 @@ choco install python -y
 choco install vscode -y
 
 choco install maven -y
+
+choco install dbeaver -y
+
+choco install postman -y
+
+choco install eclipse -y
+
+choco install jetbrainstoolbox -y
