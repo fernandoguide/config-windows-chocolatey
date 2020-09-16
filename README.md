@@ -43,4 +43,4 @@ choco install eclipse -y
 
 choco install jetbrainstoolbox -y
 
-choco install microsoft-teams -y
+choco upgrade chocolatey
