@@ -42,3 +42,5 @@ choco install postman -y
 choco install eclipse -y
 
 choco install jetbrainstoolbox -y
+
+choco install microsoft-teams -y
