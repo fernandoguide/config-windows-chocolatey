@@ -48,3 +48,5 @@ choco upgrade chocolatey
 choco install powershell-core -y
 
 choco install ccleaner -y --ignore-checksums
+
+choco install calibre -y #Biblioteca de Livros : e-books 
