@@ -44,3 +44,5 @@ choco install eclipse -y
 choco install jetbrainstoolbox -y
 
 choco upgrade chocolatey
+
+choco install powershell-core -y
