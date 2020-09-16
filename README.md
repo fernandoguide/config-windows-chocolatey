@@ -50,3 +50,10 @@ choco install powershell-core -y
 choco install ccleaner -y --ignore-checksums
 
 choco install calibre -y #Biblioteca de Livros : e-books 
+
+choco install eclipse y
+
+choco install rocketdock -y # tipo barra do mac pra windows
+
+choco install postgresql -y
+
