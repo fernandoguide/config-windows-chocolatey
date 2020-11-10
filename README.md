@@ -57,5 +57,5 @@ choco install rocketdock -y # tipo barra do mac pra windows
 
 choco install postgresql -y
 
-choco install springtoolsuite
+choco install springtoolsuite -y
 
