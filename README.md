@@ -29,6 +29,8 @@ choco install openjdk11 -y
 
 choco install openjdk11jre -y
 
+choco install openjdk8 -y
+
 choco install python -y
 
 choco install vscode -y
